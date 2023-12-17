@@ -6,8 +6,20 @@
   src: url("./assets//Hertical\ Sans.ttf");
 };
 
+.input{
+  
+    background: #828282;
+    opacity: 0.2;
+
+}
+
 .page1{
   background-color: #282c34;
+}
+
+@font-face {
+  font-family: mandala;
+  src: url("./assets/mandala_handmade_2/Mandala\ Handmade.otf");
 }
 
 .App {

@@ -13,6 +13,7 @@ module.exports = {
         century:['century gothic'],
         hertical:['hertical'],
         libre:['Libre Baskerville', 'serif'],
+        mandala:['mandala'],
       },
     },
   },
