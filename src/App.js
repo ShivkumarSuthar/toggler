@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import React from 'react'
-import Page from './assets/Page';
-import Page2 from './assets/Page2';
+import Page from './assets/Page.jsx';
+// import Page2 from './assets/Page2';
 
 
 function App() {  
