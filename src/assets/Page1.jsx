@@ -12,7 +12,7 @@ function Page() {
 
 
   const handleChange = (e) => {
-    // console.log(e.target);
+    console.log(e.target);
     const { name, value } = e.target;
     updateForm({ ...setFormValue, [name]: value, });
     // console.log(setFormValue)
